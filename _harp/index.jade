@@ -1,7 +1,7 @@
 h1 Jobs and Internships
 .internships
  for job, slug in public.data.jobs
-  .internship(class='#{slug}')
+  .internship(class='#{slug} #{job.location}')
    h3.job-name 
     | #{job.name} - 
     a(href='#{job.site}') #{job.company}
