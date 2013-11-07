@@ -1,0 +1,13 @@
+h1 Jobs and Internships
+.internships
+ for job, slug in public.data.jobs
+  .internship(class='#{slug}')
+   h3.job-name 
+    | #{job.name} - 
+    a(href='#{job.site}') #{job.company}
+   .info
+    p.location
+     i(class='fa fa-globe')
+     | #{job.location}
+    a(href='mailto:#{job.contact}?subject=#{job.name}%20Inquiry%20-%20T2G') Apply
+

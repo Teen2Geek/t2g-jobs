@@ -1,0 +1,18 @@
+{
+	"jobs": {
+		"1": {
+			"name": "Backend Dev Internship",
+			"company": "Teen2Geek",
+			"site": "http://teen2geek.com",
+			"location": "Virtual",
+			"contact": "hello@teen2geek.com"
+		},
+		"2": {
+			"name": "Front-End Dev Internship",
+			"company": "Teen2Geek",
+			"site": "http://teen2geek.com",
+			"location": "Virtual",
+			"contact": "hello@teen2geek.com"
+		}
+	}
+}

@@ -1,0 +1,11 @@
+@import "http://fonts.googleapis.com/css?family=Lato:300,300italic";
+@import "/assets/bower_components/font-awesome/css/font-awesome.min.css";
+body{font-family:Lato,sans-serif}body a{text-decoration:none;color:inherit;padding-top:5px;padding-bottom:5px;border-bottom:2px solid rgba(0,0,0,0.5)}
+h1,h2,h3{font-weight:300}
+.fa.fa-globe{margin:auto 2% auto auto}
+header{text-align:center}header h1{display:inline-block}
+header nav{display:inline-block;margin:auto 30px}header nav a{margin:auto 10px;text-decoration:none;color:inherit;padding:5px}header nav a:hover{border-bottom:2px solid rgba(0,0,0,0.5)}
+.content{text-align:center}
+.internships .internship{text-align:left;padding:5px;padding-left:30px;border:1px solid rgba(0,0,0,0.1);margin:5px auto;max-width:640px;border-radius:2px;border-bottom:2px solid rgba(0,0,0,0.1)}.internships .internship a{text-decoration:none;color:inherit;padding-top:5px;padding-bottom:5px;border-bottom:2px solid rgba(0,0,0,0.5)}
+.about,.post{padding-right:5%;padding-left:5%;text-align:left;font-size:1.5em}
+footer{margin-top:30px;text-align:center}

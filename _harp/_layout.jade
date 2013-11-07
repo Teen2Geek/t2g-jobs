@@ -1,0 +1,16 @@
+doctype
+html
+ head
+  link(rel="stylesheet", href="/main.css")
+ body
+  header
+   h1 T2G Jobs
+   nav
+    a(href='/') Home
+    a(href='/about') About
+    a(href='/post-job') Post Job
+  .content
+   != yield
+  footer
+   p
+    | &copy; 2013 Classify Studios. Made by <a href='http://krrishd.github.io' target='_blank'>Krish Dholakiya</a> with <a href='http://harpjs.com' target='_blank'>HarpJS</a>
