@@ -1,4 +1,7 @@
 {
+	"rss": {
+		"layout":false
+	},
 	"jobs": {
 		"b-t2g": {
 			"name": "Backend Dev Internship",
