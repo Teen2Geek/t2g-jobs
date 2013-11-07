@@ -5,4 +5,4 @@ echo "Pushing to Github Pages...";
 git add .;
 git commit -m "$1";
 git push origin gh-pages;
-"Pushed - $1";
+echo "Pushed - $1";
