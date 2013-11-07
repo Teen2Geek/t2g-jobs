@@ -1,0 +1,11 @@
+doctype xml
+rss(version = '2.0', xmlns:atom="http://www.w3.org/2005/Atom")
+ channel
+  atom:link(href="http://krrishd.github.io/blog/rss.xml", rel="self", type="application/rss+xml")
+  title T2G Jobs - Jobs and Internships for Teen Developers
+  link http://jobs.teen2geek.com/rss.xml
+  description T2G Jobs is a curated job/internship board specifically for the teen developer community. Apply for an internship now!
+  for item, slug in public.data.jobs
+   item #{item.name} - #{item.company}
+   link http://jobs.teen2geek.com
+   description Apply at jobs.teen2geek.com for '#{item.name}'
