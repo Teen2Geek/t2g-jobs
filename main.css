@@ -3,6 +3,8 @@
 body{font-family:Lato,sans-serif}body a{text-decoration:none;color:inherit;padding-top:5px;padding-bottom:5px;border-bottom:2px solid rgba(0,0,0,0.5)}
 h1,h2,h3{font-weight:300}
 .fa.fa-globe,.fa.fa-envelope{margin:auto 2% auto auto}
+::-webkit-scrollbar{background:white}
+::-webkit-scrollbar-thumb{background:#828282;box-shadow:1px 1px 3px 1px rgba(0,0,0,0.3)}
 header{text-align:center}header h1{display:inline-block}
 header nav{display:inline-block;margin:auto 30px}header nav a{margin:auto 10px;text-decoration:none;color:inherit;padding:5px}header nav a:hover{border-bottom:2px solid rgba(0,0,0,0.5)}
 .content{text-align:center}
