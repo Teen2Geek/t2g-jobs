@@ -13,6 +13,20 @@
 			"site": "http://teen2geek.com",
 			"location": "Virtual",
 			"contact": "hello@teen2geek.com"
+		},
+		"3": {
+			"name": "Social Media Intern",
+			"company": "Teen2Geek",
+			"site": "http://teen2geek.com",
+			"location": "Virtual",
+			"contact": "hello@teen2geek.com"
+		},
+		"4": {
+			"name": "UX Internship",
+			"company": "Teen2Geek",
+			"site": "http://teen2geek.com",
+			"location": "Virtual",
+			"contact": "hello@teen2geek.com"
 		}
 	}
 }
