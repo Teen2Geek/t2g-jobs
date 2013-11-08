@@ -1,6 +1,7 @@
-h1 Jobs and Internships
+h1 Internships for Teens
 .internships(ng-controller='internshipCtrl')
- .internship(ng-repeat='job in jobs' class='{{slug}} {{job.location}}')
+ input(type='text', ng-model='search', placeholder='Search by location or job...')
+ .internship(ng-repeat='job in jobs | filter:search' class='{{slug}} {{job.location}}')
   h3.job-name 
    | {{job.name}} - 
    a(href='{{job.site}}') {{job.company}}
