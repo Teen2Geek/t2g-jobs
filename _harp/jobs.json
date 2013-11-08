@@ -1,0 +1,32 @@
+{
+	"jobs": {
+		"b-t2g": {
+			"name": "Backend Dev Internship",
+			"company": "Teen2Geek",
+			"site": "http://teen2geek.com",
+			"location": "Virtual",
+			"contact": "hello@teen2geek.com"
+		},
+		"f-t2g": {
+			"name": "Front-End Dev Internship",
+			"company": "Teen2Geek",
+			"site": "http://teen2geek.com",
+			"location": "Virtual",
+			"contact": "hello@teen2geek.com"
+		},
+		"sm-t2g": {
+			"name": "Social Media Intern",
+			"company": "Teen2Geek",
+			"site": "http://teen2geek.com",
+			"location": "Virtual",
+			"contact": "hello@teen2geek.com"
+		},
+		"ux-t2g": {
+			"name": "UX Internship",
+			"company": "Teen2Geek",
+			"site": "http://teen2geek.com",
+			"location": "Virtual",
+			"contact": "hello@teen2geek.com"
+		}
+	}
+}
