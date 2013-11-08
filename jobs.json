@@ -1,10 +1,11 @@
 {
 	"jobs": {
-		"b-t2g": {
+		"b-t2g" :{
 			"name": "Backend Dev Internship",
 			"company": "Teen2Geek",
 			"site": "http://teen2geek.com",
-			"location": "Virtual",
+			"location": "Parker, CO",
+			"lv": "local",
 			"contact": "hello@teen2geek.com"
 		},
 		"f-t2g": {
@@ -12,6 +13,7 @@
 			"company": "Teen2Geek",
 			"site": "http://teen2geek.com",
 			"location": "Virtual",
+			"lv": "virtual",
 			"contact": "hello@teen2geek.com"
 		},
 		"sm-t2g": {
@@ -19,6 +21,7 @@
 			"company": "Teen2Geek",
 			"site": "http://teen2geek.com",
 			"location": "Virtual",
+			"lv": "virtual",
 			"contact": "hello@teen2geek.com"
 		},
 		"ux-t2g": {
@@ -26,6 +29,7 @@
 			"company": "Teen2Geek",
 			"site": "http://teen2geek.com",
 			"location": "Virtual",
+			"lv": "virtual",
 			"contact": "hello@teen2geek.com"
 		}
 	}
