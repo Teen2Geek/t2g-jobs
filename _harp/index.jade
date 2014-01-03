@@ -8,7 +8,7 @@ h1 Internships for Teens
    p.location
     i(class='fa fa-globe')
     | {{job.location}}
-   a(href="{{ 'mailto:' + job.contact + '?subject=' + job.name + '%20Inquiry%20-%20T2G' }}")
+   a(href="{{ job.contact != undefined ? 'mailto:' + job.contact : job.site  }}")
     i.fa.fa-envelope
-    | Apply - {{job.contact}}
+    | Apply
 
