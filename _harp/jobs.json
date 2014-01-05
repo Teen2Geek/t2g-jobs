@@ -38,6 +38,20 @@
 			"location": "Virtual",
 			"lv": "virtual",
 			"contact": "hello@teen2geek.com"
+		},
+		"hs-microsoft": {
+			"name": "High School Internship Program",
+			"company": "Microsoft",
+			"site": "http://careers.microsoft.com/careers/en/us/high-school-intern-program.aspx#tab_urhighschoolintern-1",
+			"location": "Puget Sound, Washington",
+			"lv": "local"
+		},
+		"pa-fedex": {
+			"name": "Intern Programmer Analyst",
+			"company": "Fedex",
+			"site": "http://fedex.hodesiq.com/careers/job_detail.aspx?User_ID=&FedexID=520442&Locale=en",
+			"location": "Uniontown, Ohio",
+			"lv": "local"
 		}
 	}
 }
