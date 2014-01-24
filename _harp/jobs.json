@@ -1,6 +1,5 @@
 {
 	"jobs": {
-
 		"a-hs-microsoft": {
 			"name": "High School Internship Program",
 			"company": "Microsoft",
@@ -27,6 +26,13 @@
 			"company": "StudentRND",
 			"site": "http://studentrnd.org/careers/opening/intern-software-development",
 			"location": "Seattle",
+			"lv": "local"
+		},
+		"aisle50": {
+			"name": "Junior UX/Graphic Designer",
+			"company": "aisle50",
+			"site": "https://aisle50.com/jobs",
+			"location": "Unknown",
 			"lv": "local"
 		},
 		"b-t2g" :{
